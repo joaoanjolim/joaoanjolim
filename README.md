@@ -1,6 +1,7 @@
-- 😃 Olá Me chamo João Pedro Massena Anjolim e Adoro Administração e Programação!
-- 🎂 Tenho 19 Anos!
-- 🤓 Sou atualmente aluno do Instituto Ser Mais+
+- 😃|Olá Me chamo João Pedro Massena Anjolim e Adoro Administração e Programação!
+- 🎂|Tenho 19 Anos!
+- 🤠|Sou Gaúcho!
+- 🤓|Sou atualmente aluno do Instituto Ser Mais+
 <div align="center">
   <a href="https://github.com/joaoanjolim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoanjolim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
