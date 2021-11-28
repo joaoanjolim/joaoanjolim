@@ -1,4 +1,4 @@
-- 😃 Olá Me chamo João Pedro Massena Anjolim e Adoro Tecnologia e Programação!
+- 😃 Olá Me chamo João Pedro Massena Anjolim e Adoro Administração e Programação!
 - 🎂 Tenho 19 Anos!
 - 🤓 Sou atualmente aluno do Instituto Ser Mais+
 <div align="center">
